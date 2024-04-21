@@ -1,0 +1,14 @@
+mc.yandex.ru
+top-fwz1.mail.ru
+privacy-cs.mail.ru
+vk.com
+yandex.ru
+
+ad.doubleclick.net
+analytics.google.com
+googletagmanager.com
+td.doubleclick.net
+stats.g.doubleclick.net
+www.googletagmanager.com
+*.fls.doubleclick.net
+*.ingest.sentry.io
