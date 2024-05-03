@@ -10,5 +10,6 @@ googletagmanager.com
 td.doubleclick.net
 stats.g.doubleclick.net
 www.googletagmanager.com
-*.fls.doubleclick.net
-*.ingest.sentry.io
+fls.doubleclick.net
+ingest.sentry.io
+sysstat.tildacdn.com
